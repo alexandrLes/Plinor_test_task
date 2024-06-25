@@ -18,10 +18,6 @@ High Load API - это высоконагруженное REST API, создан
 
 ## Установка и запуск
 
-### Шаг 1: Клонирование репозитория
-
-Клонируйте репозиторий с проектом:
-
 ```bash
 git clone https://github.com/alexandrLes/Plinor_test_task.git
 cd Plinor_test_task
